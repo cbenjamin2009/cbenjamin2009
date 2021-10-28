@@ -1,8 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+
+```Javascript
+function greeting(salutation) {
+  console.log(`${salutation} world`)
+}
+greeting('hello')
+-> hello world
+```
 
 ## My name is **Chris Benjamin** and I'm a full stack developer and IT manager. 
 
-- 🔭 I’m currently working on growing my business **Taco-IT**
+- 🔭 I’m currently working on growing my business [Taco-IT](https://taco-it.com)
 - 🌱 I’m currently learning ReactJS and NextJS
 - 👯 I’m looking to collaborate on any ReactJS/NextJS Project that is open-source
 - 🤔 I’m looking for help with expanding my real world knowledge in web development
