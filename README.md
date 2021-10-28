@@ -11,4 +11,4 @@
 - ⚡ Fun facts: My hobby is Wood Working, Cooking, and I coach Youth Soccer
 - My Why: To empower people to utilize technology to their greatest potential and innovate their jobs to be more efficient and accurate. 
 
-<a href="https://app.daily.dev/TacoHunter"><img src="https://api.daily.dev/devcards/2465d430dd424a579f560485ec3b486f.png?r=o2w" width="400" alt="Chris's Dev Card"/></a>
+<a href="https://app.daily.dev/TacoHunter"><img src="https://github.com/cbenjamin2009/cbenjamin2009/blob/master/devcard.svg" width="400" alt="Chris's Dev Card"/></a>
